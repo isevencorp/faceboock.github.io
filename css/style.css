@@ -1,0 +1,167 @@
+body{
+margin: 0 0 0 0 ;
+padding: 0 0 0 0;
+}
+
+.logo{
+  width: 100%;
+  height: 80px;
+  background-color: #3f5c9a;
+}
+.logofacebook{
+padding: 22px 0 0 450px;
+}
+.logofacebook a{
+letter-spacing: -3px;
+color: #fff;
+text-decoration: none;
+font-family: Gill Sans, sans-serif;
+font-weight: 600;
+font-size: 40px;
+}
+.logoSingIn{
+color: #fff;
+font-size: 11px;
+position: absolute;
+right: 300px;
+top: 15px;
+}
+.vhid{
+  color: #fff;
+  background-color: #4267b2;
+  border: 0.5px solid grey;
+  font-weight: 500;
+  height: 25px;
+  margin-left: 30px;
+}
+.passw{
+  margin-left: 50px;
+  width: 150px;
+  border: 0.5px solid grey;
+}
+.textlogin{
+  width: 150px;
+  border: 0.5px solid grey;
+  margin-right: 55px;
+}
+.login{
+margin-right: 25px;
+}
+.zzz a{
+  color: #74abcc;
+  margin-left: 261px;
+  text-decoration: none;
+}
+.div{
+  width: 100%;
+  height: 700px;
+  background: linear-gradient(to bottom, #fefcea, #d3d8e8);
+  color: #0e3868;
+  font-size: 20px;
+  font-weight: bold;
+}
+.text{
+  position: absolute;
+  left: 450px;
+  top:100px;
+}
+.formRegistr h4{
+  color:#333333;
+  font-weight: 600;
+  font-size: 35px;
+  margin: 50px 0 15px 0;
+}
+.formRegistr p{
+  color:#333333;
+  font-weight: normal;
+  margin: 0 0 15px 0;
+}
+.formRegistr{
+  position: absolute;
+  right: 300px;
+}
+.firstname{
+  width: 200px;
+  height: 30px;
+}
+.lastname{
+  width: 200px;
+  height: 30px;
+  margin: 0 0 10px 0;
+}
+.phone{
+  width: 425px;
+  height: 30px;
+  margin: 0 0 10px 0;
+}
+.parol{
+  width: 425px;
+  height: 30px;
+  margin: 0 0 10px 0;
+}
+.formRegistr label{
+font-weight: normal;
+color: #90949c;
+font-size: 17px;
+}
+.formRegistr select{
+  margin: 10px 0 10px 0;
+}
+.rad label{
+  color:#333333;
+  font-weight: normal;
+  font-size: 20px;
+}
+.rad{
+    margin: 10px 0px 10px 0;
+}
+.poli p{
+  padding: 10px 0 0 0 ;
+  font-size: 10px;
+}
+.aaa{
+  text-decoration: none;
+}
+.btnreg{
+  color: #fff;
+  background-color: #62a350;
+  width: 250px;
+  height: 40px;
+  font-weight: bold;
+  border: 1px solid grey;
+  font-size: 20px;
+  border-radius: 5px;
+  text-shadow: 1px 1px 2px black;
+}
+.str{
+  font-size: 12px;
+  padding-top: 50px;
+}
+.str a{
+  text-decoration: none;
+}
+.footer{
+  background-color: #fff;
+  margin: auto;
+  color: #000;
+  width: 1000px;
+}
+.footer p a {
+font-size: 11px;
+text-decoration: none;
+}
+.footer p {
+  font-size: 11px;
+  word-spacing: 20px;
+  color: grey;
+}
+hr {
+border: 0;
+height: 1px;
+background: #000;
+background-image: -webkit-linear-gradient(left, #fff, #000, #fff);
+background-image: -moz-linear-gradient(left, #fff, #000, #fff);
+background-image: -ms-linear-gradient(left, #fff, #000, #fff);
+background-image: -o-linear-gradient(left, #fff, #000, #fff);
+
+}
